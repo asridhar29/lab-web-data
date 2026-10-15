@@ -6,3 +6,7 @@ __pycache__/
 *.egg-info/
 build/
 dist/
+
+# tweet archive downloaded by download_tweets.py (regenerate, don't commit)
+master_*.json
+master_*.json.zip
